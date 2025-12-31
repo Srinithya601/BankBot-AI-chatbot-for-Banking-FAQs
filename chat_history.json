@@ -1,0 +1,47 @@
+{
+    "conversations": {
+        "cde2aa3b-0a00-483f-b4e0-ddb635d3381f": {
+            "title": "create a resume",
+            "messages": [
+                {
+                    "role": "assistant",
+                    "text": "Hello! I'm BankBot \u2014 how can I help you today?"
+                },
+                {
+                    "role": "user",
+                    "text": "create a resume"
+                },
+                {
+                    "role": "assistant",
+                    "text": "I'm sorry, I can only answer banking-related questions."
+                },
+                {
+                    "role": "user",
+                    "text": "How to check balance in sbi"
+                },
+                {
+                    "role": "assistant",
+                    "text": "You can check your SBIC (State Bank of India) account balance online or through the SBIC's mobile app. Here are the steps:\n\n**Online:**\n\n1. Go to the SBIC website at [www.sbi.co.in](http://www.sbi.co.in).\n2. Click on \"Login\" and enter your login ID and password.\n3. If you don't have a login ID or password, create one by clicking on \"New User\".\n4. Once logged in, click on \"Account Balance\" under the \"Account Details\" section.\n5. Your account balance will be displayed.\n\n**Mobile App:**\n\n1. Download and install the SBIC mobile app from the Google Play Store.\n2. Open the app and log in with your registered mobile number and password (if you have a registered mobile number).\n3. Once logged in, click on \"Account Balance\" under the \"Account Settings\" section.\n4. Your account balance will be displayed.\n\n**Phone Banking:**\n\n1. Call the SBIC customer care number at 1800 103 0303.\n2. Follow the automated voice prompts to enter your account details and secure PIN (if you have one).\n3. Once verified, you can check your account balance.\n\nPlease note that these instructions are general and may vary depending on your specific account type or setup. If you need assistance or have any issues logging in, you can contact SBIC customer care for help."
+                }
+            ]
+        },
+        "e7b729b2-67e9-49c8-be43-90a884f81238": {
+            "title": "types of bank loans???",
+            "messages": [
+                {
+                    "role": "assistant",
+                    "text": "Hello! I'm BankBot \u2014 how can I help you today?"
+                },
+                {
+                    "role": "user",
+                    "text": "types of bank loans???"
+                },
+                {
+                    "role": "assistant",
+                    "text": "There are several types of bank loans available to individuals and businesses. Here are some common ones:\n\n1. **Personal Loans**: Unsecured loans that allow you to borrow money for personal purposes, such as buying a car, home improvement, or paying off debts.\n2. ** mortgages** (Home Loans): Secured loans used to purchase or refinance a primary residence or commercial property.\n3. **Auto Loans**: Secured loans used to finance the purchase of a vehicle.\n4. **Student Loans**: Unsecured loans offered to help students cover education expenses, such as tuition and fees.\n5. **Business Loans**: Secured or unsecured loans used by businesses to fund various projects, expand operations, or manage cash flow.\n6. **Home Equity Loans (HELs)**: Refinancing of an existing mortgage using the equity in a home as collateral.\n7. **Personal Line of Credit** (LOC): An overdraft facility that allows you to borrow money as needed, up to a certain limit.\n8. **Credit Card Loans**: Secured or unsecured loans that use your credit card balance as collateral.\n9. **Refinance Loans**: Replacing an existing loan with a new one, often to lower interest rates or terms.\n\nSome other types of bank loans include:\n\n* **Subprime Loans**: Loans for individuals with poor credit history or limited financial resources.\n* **Payday Loans**: Short-term loans that are typically used as a last resort and may come with high fees and interest rates.\n* **Peer-to-Peer (P2P) Loans**: Lending platforms that allow individuals to lend money directly to each other.\n\nPlease note that the types of bank loans available may vary depending on your location, credit score, and individual circumstances. It's essential to research and compare different loan options before making a decision.\n\nIs there anything specific you'd like to know about these types of bank loans?"
+                }
+            ]
+        }
+    },
+    "active_chat": "e7b729b2-67e9-49c8-be43-90a884f81238"
+}
